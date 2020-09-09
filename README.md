@@ -16,6 +16,7 @@ Heres the database table structure:
  
 Screen Shots of the app:
 
-![login](https://user-images.githubusercontent.com/69322639/92644438-2d61ed80-f305-11ea-8194-ac0c1ffaced8.jpg)
-![signup](https://user-images.githubusercontent.com/69322639/92644446-2fc44780-f305-11ea-892a-7a69fbe43dc7.jpg)
-![loggedin](https://user-images.githubusercontent.com/69322639/92644450-30f57480-f305-11ea-8e4d-c516e28b0307.jpg)
+
+![login](https://user-images.githubusercontent.com/69322639/92646377-2ab4c780-f308-11ea-93d5-b486fdce58e9.jpg)
+![signup](https://user-images.githubusercontent.com/69322639/92646383-2d172180-f308-11ea-84b8-cdf27e261d38.jpg)
+![loggedin](https://user-images.githubusercontent.com/69322639/92646393-2e484e80-f308-11ea-8e92-b75f99935978.jpg)
