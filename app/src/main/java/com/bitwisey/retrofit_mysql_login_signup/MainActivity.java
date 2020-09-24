@@ -97,15 +97,15 @@ public class MainActivity extends AppCompatActivity {
             public void onResponse(Call<RetroInfo> call, Response<RetroInfo> response) {
 
                 RetroInfo retroInfo=response.body();
-                if (retroInfo.getResponse().equals("ok")) { //response code 200 means server call successful
-                    //data found. So place the data into TextView
+                if (retroInfo.getResponse().equals("ok")) { 
+                   
                     tv3.setText("Welcome");
                     tv1.setText(retroInfo.getName());
                     tv2.setText("Your Phone Number : "+retroInfo.getPhone());
                     logoutbtn.setVisibility(View.VISIBLE);
 
                 } else if(retroInfo.getResponse().equals("failed")){
-                    //somehow data not found. So error message showing in first TextView
+                    
                     tv3.setText("");
                     tv1.setText("");
                     tv2.setText("");
